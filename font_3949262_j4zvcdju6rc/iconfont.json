@@ -1,0 +1,37 @@
+{
+  "id": "3949262",
+  "name": "mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5706",
+      "name": "七天无理由退换货",
+      "font_class": "qitianwuliyoutuihuanhuo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5720",
+      "name": "正品保障",
+      "font_class": "zhengpinbaozhang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6692",
+      "name": "满88元包邮",
+      "font_class": "man88yuanbaoyou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "159971",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
